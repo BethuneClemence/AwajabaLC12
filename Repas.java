@@ -21,6 +21,14 @@ public class Repas {
     this.numero = numero;
   }
 	
+	get date() {
+	    return this.date;
+	  }
+
+	set date() {
+    this.date = date;
+  }
+	
 	
 	
 	
