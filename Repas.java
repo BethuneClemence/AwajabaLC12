@@ -5,6 +5,14 @@ public class Repas {
 	
 	private int numero;
 	LocalDate date;
+	
+	public Repas(int numero, LocalDate date) {
+		super();
+		this.numero = numero;
+		this.date = date;
+		
+	}
+	
 
 	
 }
