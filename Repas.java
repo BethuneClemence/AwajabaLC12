@@ -13,6 +13,17 @@ public class Repas {
 		
 	}
 	
+	get numero() {
+	    return this.numero;
+	  }
+
+	set numero() {
+    this.numero = numero;
+  }
+	
+	
+	
+	
 
 	
 }
